@@ -81,7 +81,13 @@ CAFTM은 스케일링, 관용, 중지, 마이그레이션의 네 가지 절차�
 ![image](results.png)
 
 
-## 5. 성과
+## 5. CITE
 
-- 동아대학교 컴퓨터AI공학부 졸업작품 전시회(FairDay) 최우수 수상 작품. 
-- IJCNN 2024 투고완료
+~~~
+@INPROCEEDINGS{10643899,
+  author={Park, Jeonghyeon and Kim, Daero and Kim, Jiseon and Han, Jungkyu and Chun, Sejin},
+  booktitle={2024 IEEE 17th International Conference on Cloud Computing (CLOUD)}, 
+  title={Carbon-Aware and Fault-Tolerant Migration of Deep Learning Workloads in the Geo-Distributed Cloud}, 
+  year={2024},
+}
+~~~
