@@ -6,8 +6,7 @@ repo: datascience-labs/CAFTM
 permalink: /:path/:basename:output_ext
 ---
 
-
-탄소 친화적 딥러닝 워크로드를 위한 시공간 이동 및 GPU 최적화 SW
+# 탄소 친화적 딥러닝 워크로드를 위한 시공간 이동 및 GPU 최적화 SW
 ## 참여인원: ([박정현](https://github.com/jhparkland), [김대로](https://github.com/dhfgoeofh))
 
 ## 1. 프로젝트 소개
